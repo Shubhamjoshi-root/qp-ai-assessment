@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+streamlit
+requests
+pdfplumber
+chromadb
+tiktoken
+sentence-transformers
+ollama
